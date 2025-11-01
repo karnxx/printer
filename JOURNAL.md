@@ -29,7 +29,7 @@ i need to research about the conveyor belt material and stuff, and also about th
 
 researched about belt:
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--9e7dacf1a8f7fd2fcff4d026a3ccb412a5977fd7/image.png)
-so smtn like this. cylinder should be 3d printed. and it uses gt2 belt and motor has 12t pulley, and the cylinder has a pulley with 60t, effectively giving us a 5:1 gear reduction between the motor and the conveyor roller.
-https://robocraze.com/products/aluminum-gt2-6mm-belt-width-60-teeth-5mm-bore-aluminium-timing-pulley?variant=43139553525984&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22271813913&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=22271815110&gbraid=0AAAAADgHQvbI3gbBQCQVnnvqsMlc8K5P3&gclid=Cj0KCQjw35bIBhDqARIsAGjd-cYDuq2QhIYNGwBTYZfFevpRrVqZvKxGKS0WDxswsrQR2y5qEAqQMY8aAod3EALw_wcB
+so smtn like this. cylinder should be 3d printed. and it uses gt2 belt and motor has 12t pulley, and the cylinder has [a pulley with 60t](https://robocraze.com/products/aluminum-gt2-6mm-belt-width-60-teeth-5mm-bore-aluminium-timing-pulley?variant=43139553525984&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22271813913&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=22271815110&gbraid=0AAAAADgHQvbI3gbBQCQVnnvqsMlc8K5P3&gclid=Cj0KCQjw35bIBhDqARIsAGjd-cYDuq2QhIYNGwBTYZfFevpRrVqZvKxGKS0WDxswsrQR2y5qEAqQMY8aAod3EALw_wcB
+), effectively giving us a 5:1 gear reduction between the motor and the conveyor roller. and if we have to join belts, [this tutorial](https://www.youtube.com/watch?v=Vhwb8rjqt5A) is excellent.
   
 
