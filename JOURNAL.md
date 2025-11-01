@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **3d printer**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/350).
-
-
 ## 10/9/2025 - decided idea  
 
 # Idea: Infinity conveyor printer
@@ -17,5 +13,15 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 I wanna make my own 3D printer that can print forever, kinda like the [Creality CR-30](https://www.creality.com/fr/products/creality-cr-30-3d-printer).  
 I also want it to have an AMS so it can switch between colors or materials automatically.  
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--06da558c06232b154152c07d3303e7e13175e772/image.png)
+  
+
+## 11/1/2025 - started with the design  
+
+Hi! so i started with researching about the printer. so what im gonna do is follow a corexy xy thing from my other printers. and for the conveyor, the heatbed im gonna be using will be 235x235. so the conveyor will move by 2 cylindrical thingeys, one of them controlled by a nema17hs4401. im gonna make the frame using 2020 alu extrusion. anyways, the headbed will be placed a bit higher than the conveyor cylinders.
+i need to research about the conveyor belt material and stuff, and also about the firmware.  
+
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--2a11bd67744c242c0d5c2684f6032b7c0ac4e809/image.png) 
   
 
