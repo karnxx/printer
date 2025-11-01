@@ -15,7 +15,7 @@ I also want it to have an AMS so it can switch between colors or materials autom
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--06da558c06232b154152c07d3303e7e13175e772/image.png)
   
 
-## 11/1/2025 - started with the design  
+## 11/1/2025 4 PM - started with the design  
 
 Hi! so i started with researching about the printer. so what im gonna do is follow a corexy xy thing from my other printers. and for the conveyor, the heatbed im gonna be using will be 235x235. so the conveyor will move by 2 cylindrical thingeys, one of them controlled by a nema17hs4401. im gonna make the frame using 2020 alu extrusion. anyways, the headbed will be placed a bit higher than the conveyor cylinders.
 i need to research about the conveyor belt material and stuff, and also about the firmware.  
@@ -23,5 +23,13 @@ i need to research about the conveyor belt material and stuff, and also about th
 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--2a11bd67744c242c0d5c2684f6032b7c0ac4e809/image.png) 
+  
+
+## 11/1/2025 5 PM - research  
+
+researched about belt:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--9e7dacf1a8f7fd2fcff4d026a3ccb412a5977fd7/image.png)
+so smtn like this. cylinder should be 3d printed. and it uses gt2 belt and motor has 12t pulley, and the cylinder has a pulley with 60t, effectively giving us a 5:1 gear reduction between the motor and the conveyor roller.
+https://robocraze.com/products/aluminum-gt2-6mm-belt-width-60-teeth-5mm-bore-aluminium-timing-pulley?variant=43139553525984&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22271813913&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=22271815110&gbraid=0AAAAADgHQvbI3gbBQCQVnnvqsMlc8K5P3&gclid=Cj0KCQjw35bIBhDqARIsAGjd-cYDuq2QhIYNGwBTYZfFevpRrVqZvKxGKS0WDxswsrQR2y5qEAqQMY8aAod3EALw_wcB
   
 
