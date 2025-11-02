@@ -45,5 +45,6 @@ the blue thing is the heatbed, which is 300x300mm. i also need to modify the too
 after making the conveyor i will start designing the 3d printed parts. for now im done with these stands
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--7723c14956517ff5d63fe1fdb5513c6722be6200/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c363b6fa67a9098458d0000b72dbe3a8bb470ed4/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--dfaac79c84b590fce7f1195d20c8347bfe037d9d/image.png)
   
 
