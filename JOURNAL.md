@@ -33,3 +33,17 @@ so smtn like this. cylinder should be 3d printed. and it uses gt2 belt and motor
 ), effectively giving us a 5:1 gear reduction between the motor and the conveyor roller. and if we have to join belts, [this tutorial](https://www.youtube.com/watch?v=Vhwb8rjqt5A) is excellent.
   
 
+## 11/2/2025 - 3d modelling  
+
+hello! here i have understood more about the printer by actually making the 3d model. here is what it looks like for now.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d9b1637935c847281d56edff26d405b670f6a24a/image.png)
+we will have 2 3d printed cylinders, 300mm long (maybe 1 or 2 mm more) with a 7.9mm hole in the centre. so we wil fit a linear rod through that hole. we will put the 60t pulley in that rod. also at the end of those, we will have kfl08 bearings.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--0247fd3891e09478ef677fc5984c12e4303755ce/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--c7b65ef1acbff5126a4f8a61477fbda429a33945/image.png)
+the blue thing is the heatbed, which is 300x300mm. i also need to modify the toolhead.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f26c637bc18da4fad2561f102c67b74ce2a48b71/image.png)
+after making the conveyor i will start designing the 3d printed parts. for now im done with these stands
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--7723c14956517ff5d63fe1fdb5513c6722be6200/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c363b6fa67a9098458d0000b72dbe3a8bb470ed4/image.png)
+  
+
