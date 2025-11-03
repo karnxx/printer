@@ -51,6 +51,7 @@ after making the conveyor i will start designing the 3d printed parts. for now i
 ## 11/3/2025 - pulley system.  
 
 i started making some of the 3d printed parts.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--2106c582ce2d40f4fdbda966c15ee71e31c322b8/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--0b5ac57ee3387a719a7205c1595af254a8775e52/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a17602effab45579b3e440ed5c75a537a8c06d4f/image.png)
 very basic design
