@@ -48,3 +48,18 @@ after making the conveyor i will start designing the 3d printed parts. for now i
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--dfaac79c84b590fce7f1195d20c8347bfe037d9d/image.png)
   
 
+## 11/3/2025 - pulley system.  
+
+i started making some of the 3d printed parts.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--0b5ac57ee3387a719a7205c1595af254a8775e52/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a17602effab45579b3e440ed5c75a537a8c06d4f/image.png)
+very basic design
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA1NywicHVyIjoiYmxvYl9pZCJ9fQ==--380a25e36d942e1bc9abbca3a49770933617e780/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4c214771d65267c2feec963f6f232066362d8354/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bfc2778785d6be1ed429303f78510934c3ada808/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b18fdd2d3c2200682fa01a6fe4a9b8d8ebd017d4/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--e3ee27dd4f0c5844862a2d29ce20941ba67b0842/image.png)
+here i designed the xy system, the xy gantry thing, the xy motor mounts and the pulley bracket thing.
+
+  
+
