@@ -64,3 +64,24 @@ here i designed the xy system, the xy gantry thing, the xy motor mounts and the 
 
   
 
+## 11/9/2025 - cad  
+
+hi! i couldnt post for some time cuz im working on my other 3d printer (almst done, i forgot to order heatbed thermistor). anyways, im done with like 80% of this printer i think. im done with belt routing and all.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e27256fb57cb802af5c168122de7e2de16784e95/image.png)
+also designed some 3d printer parts
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--ea41184d64d194ed5ab798dfa2e7488c8552eb0f/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--b87b0eac16adcd997e1b12bd93afaa11966dcc5c/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--006653d7554ca60a045d8e206336f65f9e70b9c6/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--92adabd601618f4357d2267c5aabb47149fae089/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--8e1b462a271aa20a857dd46244bc4b7392b2b498/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2e45888794a65bf37650a2e65c46070805473d1a/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--cab76a89b697d105d8484be34efc6b00dd28fd6d/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--64e398175a60900ce49aa4f2324a833e96039a21/image.png)
+also belted this
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3NywicHVyIjoiYmxvYl9pZCJ9fQ==--9980dc18c60325eb837c9a547cb3326bc29f0c42/image.png)
+
+
+
+
+  
+
