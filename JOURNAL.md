@@ -80,6 +80,7 @@ also designed some 3d printer parts
 also belted this
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3NywicHVyIjoiYmxvYl9pZCJ9fQ==--9980dc18c60325eb837c9a547cb3326bc29f0c42/image.png)
 
+i just have the toolhead left..
 
 
 
