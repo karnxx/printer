@@ -14,7 +14,9 @@ It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, a
 - Board: SKR Mini E3 V3
 - Extruder: Dual Gear Drive Mk8
 
-## Overview
-The printer uses standard belt-printer kinematics at 45°, allowing continuous prints or automatic part ejection.  
-The design focuses on accessible parts, simple construction, and easy tuning under Klipper.
+## CAD Model
+-https://a360.co/4o4Z37P
+
+## BOM
+-todo
 
