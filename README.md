@@ -12,6 +12,7 @@ It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, a
 - Cooling: 5015 part cooling, 3010 hotend fan  
 - Firmware: Klipper  
 - Board: SKR Mini E3 V3
+- Extruder: Dual Gear Drive Mk8
 
 ## Overview
 The printer uses standard belt-printer kinematics at 45°, allowing continuous prints or automatic part ejection.  
