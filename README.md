@@ -18,5 +18,5 @@ It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, a
 -https://a360.co/4o4Z37P
 
 ## BOM
--todo
+-[LIVE](https://docs.google.com/spreadsheets/d/1SWROC0y0osU-2LYpqgpzafo1W9ROHyHJvxw4W2zjH10/edit?usp=sharing)
 
