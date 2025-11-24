@@ -28,11 +28,14 @@ It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, a
 ### Stabilized Gantry
 - Increased wall thickness to 6mm  
 - Added extension supports on both sides 
+<img width="310" height="279" alt="image" src="https://github.com/user-attachments/assets/31b32a8c-74f3-43b2-abe4-6540a5598e24" />
+<img width="310" height="279" alt="image" src="https://github.com/user-attachments/assets/67581f84-3f51-4aba-9ce0-4171a96f31d6" />
 
 ### Nozzle Bed Contact
 - Adjusted bed position
 - Remade belt geometry
+<img width="552" height="440" alt="image" src="https://github.com/user-attachments/assets/cb22e57f-943a-421e-a4d5-b9361253d582" />
 
 ### Updated Duct
 - Flipped hotend block
-- Updated 5015 duct to be flatter + more even
+- Updated 5015 duct to be flatter
