@@ -23,3 +23,16 @@ It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, a
 ## BOM
 -[LIVE](https://docs.google.com/spreadsheets/d/1SWROC0y0osU-2LYpqgpzafo1W9ROHyHJvxw4W2zjH10/edit?usp=sharing)
 
+## Revisions-
+
+### Stabilized Gantry
+- Increased wall thickness to 6mm  
+- Added extension supports on both sides 
+
+### Nozzle Bed Contact
+- Adjusted bed position
+- Remade belt geometry
+
+### Updated Duct
+- Flipped hotend block
+- Updated 5015 duct to be flatter + more even
