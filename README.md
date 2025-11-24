@@ -29,7 +29,7 @@ It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, a
 - Increased wall thickness to 6mm  
 - Added extension supports on both sides 
 <img width="310" height="279" alt="image" src="https://github.com/user-attachments/assets/31b32a8c-74f3-43b2-abe4-6540a5598e24" />
-<img width="310" height="279" alt="image" src="https://github.com/user-attachments/assets/67581f84-3f51-4aba-9ce0-4171a96f31d6" />
+<img width="331" height="286" alt="image" src="https://github.com/user-attachments/assets/0580ad3c-5586-4d3d-b365-718d776f3c26" />
 
 ### Nozzle Bed Contact
 - Adjusted bed position
@@ -39,3 +39,5 @@ It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, a
 ### Updated Duct
 - Flipped hotend block
 - Updated 5015 duct to be flatter
+<img width="796" height="659" alt="image" src="https://github.com/user-attachments/assets/957b56a5-6008-4ab6-b022-0707860a30aa" />
+
