@@ -1,14 +1,14 @@
 # Conveytor – Conveyor 3D Printer
-<img width="904" height="629" alt="image" src="https://github.com/user-attachments/assets/b7922548-05d7-47b4-8c85-73ec21cd179e" />
-<img width="488" height="347" alt="image" src="https://github.com/user-attachments/assets/44685b84-40ba-4780-a418-e14b30c826a5" />
-<img width="426" height="469" alt="image" src="https://github.com/user-attachments/assets/d08b7c38-6647-40c2-afda-f5567df215c4" />
-<img width="647" height="541" alt="image" src="https://github.com/user-attachments/assets/0232af01-7f72-4595-bc91-4fc74402cdca" />
-<img width="649" height="580" alt="image" src="https://github.com/user-attachments/assets/7a792c16-580a-4fa0-89be-5c54cef1f1f5" />
-<img width="713" height="551" alt="image" src="https://github.com/user-attachments/assets/1c4ae504-a24d-443d-a234-7f218ddfd08c" />
-<img width="807" height="519" alt="image" src="https://github.com/user-attachments/assets/f9c7d998-ead8-4062-8847-f2295dd229e2" />
-<img width="902" height="668" alt="image" src="https://github.com/user-attachments/assets/bad3f868-0c01-4520-8e89-f1c5b0cc7d90" />
-<img width="1547" height="1058" alt="image" src="https://github.com/user-attachments/assets/ea673da4-f30a-4aec-a839-191195d8786a" />
-<img width="948" height="553" alt="image" src="https://github.com/user-attachments/assets/2961a1e8-ea9e-4e3b-b7bb-78551383a981" />
+
+<img width="1315" height="1001" alt="image" src="https://github.com/user-attachments/assets/643b2782-6142-4d5c-a31d-5b294029d013" />
+<img width="1647" height="860" alt="image" src="https://github.com/user-attachments/assets/fc7f72d6-9e3a-412d-acff-4fe68c12c74d" />
+<img width="825" height="830" alt="image" src="https://github.com/user-attachments/assets/5ab159af-a975-4f79-b6f8-aff8bbb0aac0" />
+<img width="1254" height="839" alt="image" src="https://github.com/user-attachments/assets/f0aca214-26ed-4007-b8fa-2beaf7069fc1" />
+<img width="977" height="1002" alt="image" src="https://github.com/user-attachments/assets/f5b5315f-42d3-4c6e-905b-fbfeedc495a6" />
+<img width="775" height="1004" alt="image" src="https://github.com/user-attachments/assets/aec0d834-aadb-4824-a361-7afcb3be7512" />
+<img width="712" height="1019" alt="image" src="https://github.com/user-attachments/assets/82a2744b-4b45-4a97-9969-d090bdd88feb" />
+
+
 
 Conveytor is an open-source conveyor-style 3D printer with a 300×300×250 build area and infinite forward printing.  
 It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, and runs Klipper on an SKR Mini E3 V3.
@@ -46,3 +46,20 @@ It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, a
 - Updated 5015 duct to be flatter
 <img width="796" height="659" alt="image" src="https://github.com/user-attachments/assets/957b56a5-6008-4ab6-b022-0707860a30aa" />
 
+## Optimized prints
+- Removed most supports (except fan duct)
+<img width="211" height="204" alt="image" src="https://github.com/user-attachments/assets/c6c7b30d-6a27-492a-bac0-699b45f36ff0" />
+
+## Motor double shear
+- Added double shearing, so that the belts can be tensioned safer.
+<img width="574" height="390" alt="image" src="https://github.com/user-attachments/assets/0a8d4147-da3f-438b-a5a6-43a0b4acf659" />
+
+## Added belt tensioning systems
+- so that more accurate
+<img width="488" height="543" alt="image" src="https://github.com/user-attachments/assets/69ca786e-f6d8-46c1-88da-49975e5363f4" />
+<img width="446" height="429" alt="image" src="https://github.com/user-attachments/assets/4ede57b4-1710-4659-a6f3-f61fe5526128" />
+<img width="534" height="459" alt="image" src="https://github.com/user-attachments/assets/d1dd5d36-21c8-444b-81a0-95ee23f8490f" />
+
+## Changed nozzle
+- added these extension type thing for more accuracy and length
+<img width="192" height="156" alt="image" src="https://github.com/user-attachments/assets/468d5172-a783-4910-be6c-81fe81373df3" />
