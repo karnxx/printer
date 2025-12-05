@@ -1,12 +1,12 @@
 # Conveytor – Conveyor 3D Printer
 
-<img width="1315" height="1001" alt="image" src="https://github.com/user-attachments/assets/643b2782-6142-4d5c-a31d-5b294029d013" />
-<img width="1647" height="860" alt="image" src="https://github.com/user-attachments/assets/fc7f72d6-9e3a-412d-acff-4fe68c12c74d" />
-<img width="825" height="830" alt="image" src="https://github.com/user-attachments/assets/5ab159af-a975-4f79-b6f8-aff8bbb0aac0" />
-<img width="1254" height="839" alt="image" src="https://github.com/user-attachments/assets/f0aca214-26ed-4007-b8fa-2beaf7069fc1" />
-<img width="977" height="1002" alt="image" src="https://github.com/user-attachments/assets/f5b5315f-42d3-4c6e-905b-fbfeedc495a6" />
-<img width="775" height="1004" alt="image" src="https://github.com/user-attachments/assets/aec0d834-aadb-4824-a361-7afcb3be7512" />
-<img width="712" height="1019" alt="image" src="https://github.com/user-attachments/assets/82a2744b-4b45-4a97-9969-d090bdd88feb" />
+<img width="1302" height="1035" alt="image" src="https://github.com/user-attachments/assets/ab8b5b16-74f5-4ff4-87e1-055acaa0ebc3" />
+<img width="1393" height="896" alt="image" src="https://github.com/user-attachments/assets/8c87d98e-8b67-48e5-bd2d-66778ad7bdd8" />
+<img width="921" height="765" alt="image" src="https://github.com/user-attachments/assets/b2486066-a31a-4dc2-bb89-305e9f91b37f" />
+<img width="1291" height="806" alt="image" src="https://github.com/user-attachments/assets/e453561f-8380-4018-bd5c-7e1f2080b505" />
+<img width="842" height="743" alt="image" src="https://github.com/user-attachments/assets/25265ef8-2ff6-4149-bf31-da3f1192d7da" />
+<img width="972" height="1107" alt="image" src="https://github.com/user-attachments/assets/72f6db21-a0e9-498a-9b4f-d293468cc97d" />
+<img width="864" height="1065" alt="image" src="https://github.com/user-attachments/assets/bad02978-b3a2-47eb-b54a-67caa7220837" />
 
 
 
