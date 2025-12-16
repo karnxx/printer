@@ -1,14 +1,11 @@
 # Conveytor – Conveyor 3D Printer
 
-<img width="1302" height="1035" alt="image" src="https://github.com/user-attachments/assets/ab8b5b16-74f5-4ff4-87e1-055acaa0ebc3" />
-<img width="1393" height="896" alt="image" src="https://github.com/user-attachments/assets/8c87d98e-8b67-48e5-bd2d-66778ad7bdd8" />
-<img width="921" height="765" alt="image" src="https://github.com/user-attachments/assets/b2486066-a31a-4dc2-bb89-305e9f91b37f" />
-<img width="1291" height="806" alt="image" src="https://github.com/user-attachments/assets/e453561f-8380-4018-bd5c-7e1f2080b505" />
-<img width="842" height="743" alt="image" src="https://github.com/user-attachments/assets/25265ef8-2ff6-4149-bf31-da3f1192d7da" />
-<img width="972" height="1107" alt="image" src="https://github.com/user-attachments/assets/72f6db21-a0e9-498a-9b4f-d293468cc97d" />
-<img width="864" height="1065" alt="image" src="https://github.com/user-attachments/assets/bad02978-b3a2-47eb-b54a-67caa7220837" />
-
-
+<img width="1054" height="824" alt="image" src="https://github.com/user-attachments/assets/accda466-40a2-405d-b55f-0cb900fe5360" />
+<img width="1149" height="890" alt="image" src="https://github.com/user-attachments/assets/90e39db2-eb12-4498-add5-185e9d7e7c60" />
+<img width="721" height="621" alt="image" src="https://github.com/user-attachments/assets/9e54ddc0-9435-4e70-b148-7384e0bd19da" />
+<img width="1297" height="841" alt="image" src="https://github.com/user-attachments/assets/af4c2b4d-2f4f-4042-b495-9116ac5ca7a6" />
+<img width="1297" height="847" alt="image" src="https://github.com/user-attachments/assets/9bd35b6f-4a5f-4bbd-b0d7-8777b8c7f31d" />
+<img width="1182" height="760" alt="image" src="https://github.com/user-attachments/assets/0f8f53e5-fa83-44ed-a8b4-8412b1bd2f3f" />
 
 Conveytor is an open-source conveyor-style 3D printer with a 300×300×250 build area and infinite forward printing.  
 It uses a 45° belt setup, an E3D V6 hotend, a 5015 blower, a 3010 hotend fan, and runs Klipper on an SKR Mini E3 V3.
